@@ -3,7 +3,7 @@
 //搜索加群第一时间了解最新消息：https://jq.qq.com/?_wv=1027&k=Ml8bJRFQ
 
 {
-	"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244",
+	"spider": "https://github.com/feichangmiren/yingshiyuan/blob/8706f479c079be394eb40addc5e657700c4bf3ab/tvbox/XC0821w.jar;md5;DE0BC94AA73B65BB543D368CA0393244",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
